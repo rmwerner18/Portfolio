@@ -86,6 +86,7 @@ section {
 
 #about-me h1 {
     grid-area: head;
+    align-self: end;
 }
 
 .about-me-body {
