@@ -111,3 +111,7 @@ section {
 .about-me-info ul {
     list-style: none;
 }
+
+#projects h1 {
+    margin-bottom: 50px;
+}
