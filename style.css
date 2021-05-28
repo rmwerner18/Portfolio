@@ -115,3 +115,9 @@ section {
 #projects h1 {
     margin-bottom: 50px;
 }
+
+.glide__slide p span {
+    display: flex;
+    margin-right: 25vw;
+    margin-left: 25vw;
+}
