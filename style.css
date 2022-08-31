@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
 * {
     margin: 0px;
     padding: 0px;
@@ -5,6 +7,7 @@
 
 body {
     background-color: rgb(246,247,242);
+    font-family: 'Muli';
     height: 100vh;
     overflow: hidden;
 }
@@ -18,7 +21,7 @@ body {
 }
 
 .landing-page-photo {
-    height: 50vh;
+    height: 100%;
 }
 
 
@@ -69,12 +72,14 @@ section {
     display: flex;
     flex-direction: row;
     text-align: right;
+    height: 400px;
 }
 
 #home h1 {
     font-size: 7.5vh; 
     margin-right: 10px;
-    height: 50vh;
+    height: 100%;
+    padding: 0 0;
 }
 
 #about-me {
