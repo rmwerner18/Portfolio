@@ -3,12 +3,6 @@ const frontendLink = document.getElementById('frontend-link')
 const backendLink = document.getElementById('backend-link')
 const projectName = document.getElementById('name')
 
-const frontends = [
-    'https://github.com/rmwerner18/chord_mixer_client',
-    'https://github.com/rmwerner18/some_trails_client',
-    'https://github.com/rmwerner18/twitter_project_frontend'
-]
-
 const projects = {
     1: {
         name: 'CHORD MIXER',
@@ -26,12 +20,6 @@ const projects = {
         backend: 'https://github.com/rmwerner18/twitter_project_backend'
     }
 }
-
-const backends = [
-    'https://github.com/rmwerner18/chord_mixer_api',
-    'https://github.com/rmwerner18/some_trails_api',
-    'https://github.com/rmwerner18/twitter_project_backend'
-]
 
 projectDivs.forEach(project => {
     project.addEventListener('click',() => {
