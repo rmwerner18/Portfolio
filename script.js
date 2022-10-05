@@ -5,9 +5,9 @@ const projectName = document.getElementById('name')
 
 const projects = {
     1: {
-        name: 'CHORD MIXER',
-        frontend: 'https://github.com/rmwerner18/chord_mixer_client',
-        backend: 'https://github.com/rmwerner18/chord_mixer_api'
+        name: 'SONGIFY',
+        frontend: 'https://github.com/rmwerner18/songify-client',
+        backend: 'https://github.com/rmwerner18/songify-api'
     },
     2: {
         name: 'SOME TRAILS',
