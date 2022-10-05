@@ -15,11 +15,7 @@ body {
 
 .content-card {
     position: relative;
-    /* display: flex;
-    flex-direction: column;
-     */
-    margin-top: 2vh;
-    margin-left: 2vw;
+    margin: 2.5vh auto;
     height: 95vh;
     width: 95vw;
     padding: 0;
