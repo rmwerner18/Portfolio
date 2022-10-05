@@ -8,7 +8,7 @@
     "npm": "7.12.0"
   },
   "scripts": {
-    "start": "node index.html"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
