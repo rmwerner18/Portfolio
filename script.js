@@ -3,6 +3,9 @@ const frontendLink = document.getElementById('frontend-link')
 const backendLink = document.getElementById('backend-link')
 const projectName = document.getElementById('name')
 
+const PORT = process.env.PORT 
+
+
 const projects = {
     1: {
         name: 'CHORD MIXER',
