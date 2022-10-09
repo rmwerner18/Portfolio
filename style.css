@@ -99,6 +99,16 @@ a {
     height: 100%;
 }
 
+.no-demo-project {
+    display: flex;
+    height: 100%;
+    width: 60%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
 @media (max-width: 915px) {
     p {
         margin-bottom: 5px;

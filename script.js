@@ -10,11 +10,16 @@ const projects = {
         backend: 'https://github.com/rmwerner18/songify-api'
     },
     2: {
+        name: 'UDEMY EMAIL PROJECT',
+        frontend: 'https://github.com/rmwerner18/udemy-email-project/tree/main/client',
+        backend: 'https://github.com/rmwerner18/udemy-email-project'
+    },
+    3: {
         name: 'SOME TRAILS',
         frontend: 'https://github.com/rmwerner18/some_trails_client',
         backend: 'https://github.com/rmwerner18/some_trails_api'
     },
-    3: {
+    4: {
         name: 'TWITTER CLOUD',
         frontend: 'https://github.com/rmwerner18/twitter_project_frontend',
         backend: 'https://github.com/rmwerner18/twitter_project_backend'
